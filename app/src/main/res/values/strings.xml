@@ -6,5 +6,6 @@
     <string name="back">Back</string>
     <string name="nama">Nama Lengkap</string>
     <string name="alamat">Alamat</string>
- 
+    <string name="gender">Jenis Kelamin</string>
+  
 </resources>
